@@ -14,9 +14,11 @@ This is a preview of the code involving pulling the top 5 leaders in each metric
 
 <img width="1003" alt="Screen Shot 2021-07-05 at 3 34 54 PM" src="https://user-images.githubusercontent.com/79670978/124512648-e159cb00-dda6-11eb-95e9-2c170afb9653.png">
 
+<img width="989" alt="Screen Shot 2021-07-05 at 3 35 05 PM" src="https://user-images.githubusercontent.com/79670978/124512656-e454bb80-dda6-11eb-9af6-b573e792c698.png">
+
 Once the top 5 leaders were sorted and organized, I pulled the full statistics table for all players on tour and loaded into one large dataframe. A for loop was required to sift through the webpages by changing the webpage URL.
 
-<img width="989" alt="Screen Shot 2021-07-05 at 3 35 05 PM" src="https://user-images.githubusercontent.com/79670978/124512656-e454bb80-dda6-11eb-9af6-b573e792c698.png">
+<img width="1008" alt="Screen Shot 2021-07-05 at 3 52 55 PM" src="https://user-images.githubusercontent.com/79670978/124515189-cab67280-ddac-11eb-8389-16b69ca25952.png">
 
 ## Future Updates
 
