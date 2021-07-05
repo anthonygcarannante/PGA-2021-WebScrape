@@ -10,9 +10,17 @@ Technologies Used: Pandas, BeautifulSoup, HTML
 
 ## Code Preview
 
+This is a preview of the code involving pulling the top 5 leaders in each metric that is tracked on the ESPN website, cleaned and loaded into individual dataframes.
+
 <img width="1003" alt="Screen Shot 2021-07-05 at 3 34 54 PM" src="https://user-images.githubusercontent.com/79670978/124512648-e159cb00-dda6-11eb-95e9-2c170afb9653.png">
 
+Once the top 5 leaders were sorted and organized, I pulled the full statistics table for all players on tour and loaded into one large dataframe. A for loop was required to sift through the webpages by changing the webpage URL.
+
 <img width="989" alt="Screen Shot 2021-07-05 at 3 35 05 PM" src="https://user-images.githubusercontent.com/79670978/124512656-e454bb80-dda6-11eb-9af6-b573e792c698.png">
+
+## Future Updates
+
+I plan to update this project by potentially loading this into a SQL database as well as look for trends in these statistics among pro golfers on the PGA tour.
 
 ### Contact Info
 e: anthonygcarannante@gmail.com
