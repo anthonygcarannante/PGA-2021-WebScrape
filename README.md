@@ -22,7 +22,7 @@ Once the top 5 leaders were sorted and organized, I pulled the full statistics t
 
 ## Future Updates
 
-I plan to update this project by potentially loading this into a SQL database as well as look for trends in these statistics among pro golfers on the PGA tour.
+I plan to update this project by potentially loading this into a SQL database as well as look for trends in these statistics among pro golfers on the PGA tour. I will also be pulling stats for previous PGA seasons.
 
 ### Contact Info
 e: anthonygcarannante@gmail.com
